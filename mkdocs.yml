@@ -49,8 +49,8 @@ nav:
   - Home: index.md
   - Configuration: config.md
   - Image: image.md
-  - Information:
-  - Miscellaneous:
-  - Moderator:
-  - Suggestions:
-  - Tags:
+  - Information: information.md
+  - Miscellaneous: miscellaneous.md
+  - Moderator: moderator.md
+  - Suggestions: suggestions.md
+  - Tags: tags.md
