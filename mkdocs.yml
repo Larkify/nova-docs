@@ -35,6 +35,8 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
+  icon:
+    logo: logo
 
 extra: 
     social:
