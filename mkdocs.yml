@@ -1,0 +1,46 @@
+site_name: Nova Documentation
+site_author: Kiran D
+repo_url: https://github.com/Larkify/nova-docs
+repo_name: larkify/nova-docs
+
+theme: 
+  name: material
+
+  plugins:
+    - git-revision-date:
+        enabled_if_env: CI
+    - search: 
+        en
+
+  icon:
+    repo: fontawesome/brands/github-alt
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+  icon:
+    logo: logo
+
+extra: 
+    social:
+    ## github
+    - icon: fontawesome/brands/github
+      link: https://github.com/larkify
+    ## discord server
+    - icon: fontawesome/brands/discord
+      link: https://larkx.xyz/discord
+    ## email me
+    - icon: fontawesome/solid/at
+      link: mailto:contact@larkx.xyz
