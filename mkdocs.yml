@@ -5,7 +5,7 @@ repo_name: larkify/nova-docs
 
 theme: 
   name: material
-  font: Segoe UI
+  font: Lato
 
   plugins:
     - git-revision-date:
