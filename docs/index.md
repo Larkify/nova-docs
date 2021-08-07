@@ -14,6 +14,6 @@
 
 !!! danger
     ```
-  - [] = optional arguments
-  - <> = required arguments
-  - ```
+    - [] = optional arguments
+    - <> = required arguments
+    ```
