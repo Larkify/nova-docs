@@ -45,6 +45,12 @@ extra:
     - icon: fontawesome/solid/at
       link: mailto:contact@larkx.xyz
 
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - Home: index.md
   - Configuration: config.md

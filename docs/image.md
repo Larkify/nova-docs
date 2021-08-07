@@ -1,8 +1,8 @@
 # Image Commands
 
-{% hint style="info" %}
-These are pretty standard commands, and aren't a core feature of Nova. So don't expect anything fabulous like Dank Memer's image commands.
-{% endhint %}
+!!! info
+    These are pretty standard commands, and aren't a core feature of Nova. So don't expect anything fabulous like Dank Memer's image commands.
+
 
 | Command | Example | Usage |
 | :--- | :--- | :--- |
