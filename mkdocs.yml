@@ -5,6 +5,9 @@ repo_name: larkify/nova-docs
 
 theme: 
   name: material
+  logo: images/favicon.png
+  favicon: images/favicon.png
+
   font: 
     text: Segoe UI
 
@@ -32,8 +35,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.top
-  icon:
-    logo: logo
 
 extra: 
     social:
