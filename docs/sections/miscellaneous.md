@@ -1,7 +1,12 @@
+---
+title: Miscellaneous | Nova-Docs
+description: Commands that one day, you might find that they will become handy to you.
+---
+
 # Miscellaneous Commands
 *Commands that one day, you might find that they will become handy to you.*
 
-| Command | Example | Usage |
+| Command | Example | Description |
 | :--- | :--- | :--- |
 | avatar | -avatar [@larkx] | Get a users avatar, with buttons to download it.
 | calculate | -calculate <2> <+> <3> | Calculate simple maths questions (+, -, ÷, ×)

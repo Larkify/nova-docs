@@ -1,10 +1,15 @@
+---
+title: Config | Nova-Docs
+description: Configure Nova to work just the way you like in your server, these require ADMINISTRATOR permission.
+---
+
 # Configuration
 *Configure Nova to work just the way you like in your server, these require ADMINISTRATOR permission.*
 
 !!! info
     Nova's default prefix is `-`, but it can be changed.
 
-| Command | Example | Usage |
+| Command | Example | Description |
 | :--- | :--- | :--- |
 | prefix | -prefix [!] | Set or view the servers current prefix. |
 | configinfo | -configinfo | Information about how Nova is configured in the server. |

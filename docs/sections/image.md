@@ -1,7 +1,12 @@
+---
+title: Image | Nova-Docs
+description: A wide range of simple and fun image commands just in case you get bored whilst on Discord.
+---
+
 # Image Commands
 *A wide range of simple and fun image commands just in case you get bored whilst on Discord.*
 
-| Command | Example | Usage |
+| Command | Example | Description |
 | :--- | :--- | :--- |
 | advert | -advert [@larkx] | Turns you or a mentioned user into an advert.
 | affect | -affect [@larkx] | Shows a funny "this doesn't affect my baby" meme.

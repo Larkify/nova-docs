@@ -1,7 +1,12 @@
+---
+title: Information | Nova-Docs
+description: Fetch information on certain elements in a server, such as channels, roles, emojis, users and bans.
+---
+
 # Information Commands
 *Fetch information on certain elements in a server, such as: channels, roles, emojis, users and bans.*
 
-| Command | Example | Usage |
+| Command | Example | Description |
 | :--- | :--- | :--- |
 | ban-info | -ban-info <507585837802848257> | Fetch information about a banned user in the server.
 | channel-info | -channel-info [#general] | More in-depth information about a channel.

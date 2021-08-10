@@ -24,13 +24,13 @@ theme:
       primary: deep purple
       accent: deep purple
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       primary: deep purple
       accent: deep purple
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Switch to light mode
   features:
     - navigation.tabs
@@ -53,13 +53,17 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - meta
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Home: index.md
-  - Configuration: pages/config.md
-  - Image: pages/image.md
-  - Information: pages/info.md
-  - Miscellaneous: pages/misc.md
-  - Moderator: pages/mod.md
-  - Suggestions: pages/suggestions.md
-  - Tags: pages/tags.md
+  - Configuration: sections/configuration.md
+  - Image: sections/image.md
+  - Information: sections/information.md
+  - Miscellaneous: sections/miscellaneous.md
+  - Moderator: sections/moderator.md
+  - Suggestions: sections/suggestions.md
+  - Tags: sections/tags.md

@@ -1,9 +1,14 @@
+---
+title: Tags | Nova-Docs
+description: Deliver basic information to your server members easily with tags.
+---
+
 # Tag Commands
 *Deliver basic information to your server members easily with tags.*
 
-| Command | Example | Usage |
+| Command | Example | Description
 | :--- | :--- | :--- |
-| tag | -tag <name> | Fetch a tag from the server.
+| tag | -tag <name> | Fetch a tag from the server. | 
 | tag-create | -tag-create <name> <response> | Create a tag in the server.
 | tag-delete | -tag-delete <name> | Delete a tag in the server.
 | tag-edit | -tag-edit <name> <response> | Edit a tag in the server.

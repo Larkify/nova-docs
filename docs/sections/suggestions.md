@@ -1,7 +1,12 @@
+---
+title: Suggestions | Nova-Docs
+description: Let your users have a say in how the server runs with Nova's advances suggestion commands.
+---
+
 # Suggestion Commands
 *Let your users have a say in how the server runs with Nova's advances suggestion commands.*
 
-| Command | Example | Usage |
+| Command | Example | Description
 | :--- | :--- | :--- |
 | suggest-add | -suggest-add <text> | Add a suggestion to the server suggestions channel.
 | suggest-edit | -suggest-edit <ID> <text> | Edit one of your suggestions in the server.

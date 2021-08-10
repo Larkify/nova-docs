@@ -1,3 +1,8 @@
+---
+title: Home | Nova-Docs
+description: Welcome to Nova's documentation! Here you'll find a list of all the commands, how to use them, and what they do. You can also find support links and invite the bot to your server.
+---
+
 # Home
 
 [Website](https://larkx.xyz/nova){ .md-button }
@@ -7,6 +12,9 @@
 !!! info
     All of Nova's regular commands are also **slash commands**.
     It's recommended that you switch to using slash commands for more customizability and regular commands will eventually be deprecated. 
+
+## Welcome
+*Here you'll find a list of all the commands, how to use them, and what they do. You can also find support links and invite the bot to your server. As always, direct help can be found in my Discord server and if you have questions you can also ask them there.*
 
 ## Notes
 
