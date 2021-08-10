@@ -21,5 +21,4 @@
     • [] = optional arguments
     • <> = required arguments
     • "/" = two options can be used
-    • <>[3] = the count of extra arguments.  
     ```

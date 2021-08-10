@@ -13,7 +13,7 @@
 | invite | -invite | Get useful link for Nova (support server, invite, website etc.)
 | meme | -meme | Grab a random SFW meme from r/Memes.
 | ping | -ping | Find out what Nova's API & bot latency is.
-| poll | -poll \<question> \<choices>[10] | Create a poll with any question and choices.
+| poll | -poll \<question> \<"choices">[10] | Create a poll with any question and choices.
 | stats | -stats | Find some information for nerd about Nova.
 | uptime | -uptime | See how long Nova has been online for.
 | urban | -urban <nova bot> | Get the urban dictionary definition for a word or phrase.
