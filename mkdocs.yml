@@ -56,10 +56,10 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Configuration: config.md
-  - Image: image.md
-  - Information: information.md
-  - Miscellaneous: miscellaneous.md
-  - Moderator: moderator.md
-  - Suggestions: suggestions.md
-  - Tags: tags.md
+  - Configuration: pages/config.md
+  - Image: pages/image.md
+  - Information: pages/info.md
+  - Miscellaneous: pages/misc.md
+  - Moderator: pages/mod.md
+  - Suggestions: pages/suggestions.md
+  - Tags: pages/tags.md
