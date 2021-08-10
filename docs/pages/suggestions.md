@@ -3,7 +3,7 @@
 
 | Command | Example | Usage |
 | :--- | :--- | :--- |
-| suggest-add | -suggest-add \<text> | Add a suggestion to the server suggestions channel.
-| suggest-edit | -suggest-edit \<ID> <text> | Edit one of your suggestions in the server.
-| suggest-info | -suggest-info \<ID> | Find information about a suggestion.
-| suggest-remove | -suggest-remove \<ID> | Remove a suggestion from the server.
+| suggest-add | -suggest-add <text> | Add a suggestion to the server suggestions channel.
+| suggest-edit | -suggest-edit <ID> <text> | Edit one of your suggestions in the server.
+| suggest-info | -suggest-info <ID> | Find information about a suggestion.
+| suggest-remove | -suggest-remove <ID> | Remove a suggestion from the server.
