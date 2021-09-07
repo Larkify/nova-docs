@@ -1,0 +1,20 @@
+
+table {
+    transition: .3s ease-in-out;
+}
+
+th {
+    transition: .3s ease-in-out;
+}
+
+h1 {
+    transition: .3s ease-in-out;
+}
+
+code {
+    transition: .3s ease-in-out;
+}
+
+.admonition {
+    transition: .3s ease-in-out;
+}
