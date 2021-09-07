@@ -15,3 +15,7 @@ description: Keep your server under control with Nova's moderation commands.
 | kick | -kick <507585837802848257 / @larkx> [reason] | Kick a user from the current server.
 | slowmode | -slowmode <10s> | Set the current channel's slowmode.
 | unban | -unban <507585837802848257> | Unban a user from the current server.
+| lockdown | -lockdown | Lockdown a channel.
+| unlockdown | -unlockdown | Unlock a channel.
+| mute | -mute <@user> [duration] [reason] | Mute a user in the server.
+| unmute | -unmumte <@user> | Unmute a user in the server.
